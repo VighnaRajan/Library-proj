@@ -1,0 +1,47 @@
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\bin\Debug\Library Proj.exe
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\bin\Debug\Library Proj.pdb
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\bin\Debug\Library Proj.xml
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\Debug\ResolveAssemblyReference.cache
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\Debug\Library_Proj.CrystalReport1.rpt
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\Debug\Library_Proj.login.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\Debug\Library_Proj.MDIParent1.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\Debug\Library_Proj.Resources.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\Debug\Library Proj.vbproj.GenerateResource.Cache
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\Debug\Library Proj.exe
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\Debug\Library Proj.xml
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\Debug\Library Proj.pdb
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\bin\x86\Debug\Library Proj.exe
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\bin\x86\Debug\Library Proj.pdb
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\bin\x86\Debug\Library Proj.xml
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.CrystalReport1.rpt
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.login.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.MDIParent1.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.Resources.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library Proj.vbproj.GenerateResource.Cache
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library Proj.exe
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library Proj.xml
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library Proj.pdb
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\Debug\Library_Proj.CrystalReport2.rpt
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\Debug\Library_Proj.CrystalReport3.rpt
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\Debug\Library_Proj.CrystalReport4.rpt
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\Debug\Library_Proj.CrystalReport5.rpt
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\Debug\Library_Proj.newbooks.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.CrystalReport3.rpt
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.CrystalReport4.rpt
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.newbooks.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.newsubscriber.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\Debug\Library_Proj.newsubscriber.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.issue.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.subscribershistoryrpt.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.bookreturn.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.BookStocksrpt.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.condemned.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.lostbook.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.booksearch.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.categorywiselistingrpt.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.CrystalReportx.rpt
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.condemnedlistrpt.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.lostbooksrpt.resources
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.CrystalReportz.rpt
+D:\Vighna.K.V.R\Library proj\Library Proj\Backup\Library Proj\obj\x86\Debug\Library_Proj.CrystalReporty.rpt
